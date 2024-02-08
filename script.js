@@ -27,5 +27,4 @@ function copyToClipboard() {
 
 getQuote(api_url);
 
-//Backgorund Animation//
 
